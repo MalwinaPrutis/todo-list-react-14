@@ -2,7 +2,7 @@
 
 ## ![Preview](public/14.gif)
 
-## 🔗 Live Demo  
+## Live Demo  
 
 🚀 ###
 [Kliknij tutaj, aby zobaczyć aplikację ToDo List online!](https://MalwinaPrutis.github.io/todo-list-react-14/)🌟
